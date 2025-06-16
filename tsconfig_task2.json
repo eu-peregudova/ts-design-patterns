@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "outDir": "./task2_Figures/dist",
+    "strict": true
+  },
+  "include": ["task2_Figures/src"],
+  "exclude": ["node_modules"]
+}

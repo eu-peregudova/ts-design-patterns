@@ -10,3 +10,5 @@ node_modules
 .idea
 /task1_Figures/dist/
 /task1_Figures/logs/
+/task2_Figures/dist/
+/task2_Figures/logs/

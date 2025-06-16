@@ -16,7 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start-task1": "tsc -p tsconfig.json && node task1_Figures/dist/main.js"
+    "start-task1": "tsc -p tsconfig.json && node task1_Figures/dist/main.js",
+    "start-task2": "tsc -p tsconfig_task2.json && node task2_Figures/dist/main.js"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
